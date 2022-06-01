@@ -1,0 +1,7 @@
+## IGNORE
+stdpipe_software/
+**cfitsio
+**MUPHOTEN
+*hotpants
+*.git
+.git/
